@@ -1,5 +1,5 @@
 // Deprecated: use github.com/khulnasoft-labs/utils/strings instead
-module github.com/khulnasoft-labs/stringsutil
+module github.com/khulnasoft-lab/stringsutil
 
 go 1.16
 
